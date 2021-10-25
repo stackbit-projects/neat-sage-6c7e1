@@ -45,6 +45,7 @@ sections:
         image: images/book-inside.png
         image_alt: Look inside Marketing Playbook
         media_position: right
+        media_width: fifty
     feature_padding_vert: small
     align: center
     background_color: none
@@ -169,6 +170,7 @@ sections:
     background_image_repeat: no-repeat
     background_image_size: cover
     background_image_opacity: 10
+
   - type: cta_section
     title: Download the e-book today
     actions:
