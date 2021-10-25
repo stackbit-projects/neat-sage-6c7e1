@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Daniel Ruggles
-    subtitle: Political Science at Brandeis University
+    subtitle: Political Scientist at Brandeis University
     content: |-
       I am a political scientist in Boston, MA 
     actions:
