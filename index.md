@@ -15,14 +15,6 @@ sections:
         icon: arrow-right
         icon_position: right
     # replace image
-    image: images/marketing-playbook.png
-    image_alt: Marketing Playbook preview
-    media_position: left
-    media_width: fourty
-    align: left
-    padding_top: large
-    padding_bottom: large
-    background_color: none
   - type: features_section
     features:
       - title: What’s Inside
