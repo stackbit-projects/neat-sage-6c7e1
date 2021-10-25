@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Daniel Ruggles
-    subtitle: PhD in progress at Brandeis University.  Studying American Politics
+    subtitle: Political Science
     content: |-
       I am a political scientist in Boston, MA 
     actions:
