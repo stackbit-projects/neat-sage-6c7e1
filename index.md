@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Daniel Ruggles
-    subtitle: PhD student (3rd year) Brandeis University
+    subtitle: PhD student (3rd year) studying Politics
     content: |-
       I am a political scientist in Boston, MA studying 
     actions:
