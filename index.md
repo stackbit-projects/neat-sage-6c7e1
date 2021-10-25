@@ -23,6 +23,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: none
+
   - type: features_section
     features:
       - title: What’s Inside
