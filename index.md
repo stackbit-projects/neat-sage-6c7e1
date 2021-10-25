@@ -5,9 +5,7 @@ sections:
     title: Daniel Ruggles
     subtitle: PhD in progress at Brandeis University.  Studying American Politics
     content: |-
-      This book is your go-to guide for all marketing channels. Learn how to
-      create effective landing pages, compelling ads, creative copywriting and
-      converting marketing materials for any business.
+      I am a political scientist in Boston, MA 
     actions:
       - label: Get the book
         url: /pricing
