@@ -215,7 +215,7 @@ sections:
     background_image_opacity: 10
 seo:
   title: Daniel Ruggles
-  description: I am a political science PhD student at Brandeis University and I focus on American Political Development (APD), social movements, and White supre
+  description: I am a political science PhD student at Brandeis University and I focus on American Political Development (APD), social movements, and White supremacist 
   extra:
     - name: 'og:type'
       value: website
