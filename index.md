@@ -5,7 +5,7 @@ sections:
     title: Daniel Ruggles
     subtitle: PhD student (3rd year) studying Politics at Brandeis
     content: |-
-      I am a political scientist in Boston, MA studying 
+      I am a political scientist in Boston, MA studying  
     actions:
       - label: Get the book
         url: /pricing
