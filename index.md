@@ -215,7 +215,7 @@ sections:
     background_image_opacity: 10
 seo:
   title: Daniel Ruggles
-  description: The preview of the Book theme
+  description: I am a PhD student studying 
   extra:
     - name: 'og:type'
       value: website
