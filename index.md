@@ -5,7 +5,7 @@ sections:
     title: Daniel Ruggles
     subtitle: Political Scientist at Brandeis University
     content: |-
-      I am a political scientist in Boston, MA 
+      I am a political scientist in Boston, MA studying 
     actions:
       - label: Get the book
         url: /pricing
