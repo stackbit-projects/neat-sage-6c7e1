@@ -215,7 +215,7 @@ sections:
     background_image_opacity: 10
 seo:
   title: Daniel Ruggles
-  description: I am a political science PhD student at Brandeis University and I focus on the impact of White supremacists, social movements, and 
+  description: I am a political science PhD student at Brandeis University and I focus on the impact of White supremacists and Whtie social movements, and 
   extra:
     - name: 'og:type'
       value: website
