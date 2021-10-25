@@ -215,7 +215,7 @@ sections:
     background_image_opacity: 10
 seo:
   title: Daniel Ruggles
-  description: I am a political science PhD student at Brandeis University studying 
+  description: I am a political science PhD student at Brandeis University studying American Political Development (APD), 
   extra:
     - name: 'og:type'
       value: website
