@@ -9,6 +9,7 @@ sections:
     actions:
       - label: My Research
         url: /research
+        # make sure to make a research page
         style: primary
         has_icon: true
         icon: arrow-right
