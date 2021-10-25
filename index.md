@@ -8,7 +8,7 @@ sections:
       I am a political scientist in Boston, MA studying American Political Development.  I am interested in the impact of White social movements on state development.
     actions:
       - label: My Research
-        url: /pricing
+        url: /research
         style: primary
         has_icon: true
         icon: arrow-right
